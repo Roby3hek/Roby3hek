@@ -40,4 +40,3 @@
 
 # Курсы
 https://stepik.org/cert/2747736
-WorldSkils_____________________
