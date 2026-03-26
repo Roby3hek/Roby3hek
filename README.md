@@ -1,6 +1,13 @@
 ![HEADER](https://github.com/Roby3hek/Roby3hek/blob/main/assets/dinosaur.gif)
+# Курсы
+https://stepik.org/cert/2747736
+
+# Коммерческие проекты
+Разработал ПО для управления вендинговым аппаратом, генератором сухого тумана. Полностью рабочее программное обеспечение для аппарата + ведение статистики и управление в Telegram боте, реализованое на языке C++. Ознакомиться можно в репозитории [Roby3hek/TumanIO](https://github.com/Roby3hek/TumanIO). Для данного проекта был разработан внешний сайт, для заказа данного оборудования с конструктором примерной стоимости и приемом заявок в админ панели. Ознакомиться можно в репозитории [Roby3hek/TumanIOWebApp](https://github.com/Roby3hek/TumanIOWebApp).
+Разработал Telegram бота для приема заявок для пейнтбол/лазертаг клуба Zona51. Бот находится в репозитории [Roby3hek/zona51](https://github.com/Roby3hek/zona51).
 
 # Цели
+Junior Java Backend Developer. Перехожу из разработки ПО для ПЛК в веб-бэкенд. Готов к стажировке и junior-позициям.
 Поскольку сейчас основной спектр это разработка ПО для ПЛК, опыта в данной сфере у меня гораздо больше чем в остальных. Завел новый профиль и хочу переквалифицироваться и стать Junior Java Developer. В связи с этим прохожу курсы и делаю проекты на Java для своего портфолио. Хочу расти и развиваться в качестве Backend разработчика, и уйти подальше от автоматизации, поскольку автоматизация требует постоянной работы с оборудованием, в том числе на объектах заказчика.  
 
 # Среднее образование
@@ -17,10 +24,6 @@
 # Высшее образование 
 Также после окончания колледжа, поступил в университет, в 2027 году заканчивается обучение. Специальность Информационные системы и технологии.
 В университете расширил спектр познаний в программировании, выполняя разные проекты для определенных дисциплин. С ними можно ознакомиться в репозиториях [Roby3hek/GoRestApi](https://github.com/Roby3hek/GoRestApi), [Roby3hek/AutoMongoDB](https://github.com/Roby3hek/AutoMongoDB), [Roby3hek/reactViteProject](https://github.com/Roby3hek/reactViteProject), [Roby3hek/CarDiagnostic](https://github.com/Roby3hek/CarDiagnostic), [Roby3hek/VisionApp](https://github.com/Roby3hek/VisionApp). 
-                                            
-# Коммерческие проекты
-Разработал ПО для управления вендинговым аппаратом, генератором сухого тумана. Полностью рабочее программное обеспечение для аппарата + ведение статистики и управление в Telegram боте, реализованое на языке C++. Ознакомиться можно в репозитории [Roby3hek/TumanIO](https://github.com/Roby3hek/TumanIO). Для данного проекта был разработан внешний сайт, для заказа данного оборудования с конструктором примерной стоимости и приемом заявок в админ панели. Ознакомиться можно в репозитории [Roby3hek/TumanIOWebApp](https://github.com/Roby3hek/TumanIOWebApp).
-Разработал Telegram бота для приема заявок для пейнтбол/лазертаг клуба Zona51. Бот находится в репозитории [Roby3hek/zona51](https://github.com/Roby3hek/zona51).
 
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/Android%20studio.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/Visual%20Studio.png)
@@ -37,6 +40,3 @@
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/REACT.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/HTML5.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/CSS.png)
-
-# Курсы
-https://stepik.org/cert/2747736
