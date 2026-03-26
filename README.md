@@ -31,7 +31,7 @@
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/Java.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/C%23.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/Python.png)
-![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/Java%20SCRIPT.png)
+![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/js.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/PHP.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/C%2B%2B.png)
 ![Flutter](https://github.com/Roby3hek/Roby3hek/blob/main/assets/REACT.png)
